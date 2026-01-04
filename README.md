@@ -2,13 +2,14 @@
 
 I’m **Adi Shrivastava**, a data science student at **IIT Madras**.
 
-I like understanding how things work — and then building them.
+I enjoy understanding how things work and then trying to build them on my own.
+Most of what I learn comes from experimenting, breaking things, and fixing them again.
 
-If a problem feels interesting, I usually try to solve it with logic first,  
-and then turn that solution into working code.
+Right now, I’m mainly learning **React, TypeScript, and Tailwind**, and I usually design using **Figma** and **Canva**.
 
-Most of my time goes into learning **web development**, **Learning Python Libraries**, 
-along with regular **DSA practice** to stay sharp.
+A lot of my time goes into **web development**, getting comfortable with **Python libraries**, and regular **DSA practice** to keep my problem-solving sharp.
+
+You’ll find a mix of learning projects and experiments on my profile as I continue figuring things out.
 
 
 ---
@@ -21,7 +22,6 @@ along with regular **DSA practice** to stay sharp.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
