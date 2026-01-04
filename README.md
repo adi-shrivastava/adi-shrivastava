@@ -1,4 +1,13 @@
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+### Welcome to my Github profile <img src="./party-github.gif" width="22"/>
+<div align="center" style="position: relative; width: 100%;">
+
+  <img src="header.png" width="100%" />
+
+  <svg viewBox="0 0 1200 300"
+       style="position:absolute; top:0; left:0; width:80%; height:80%;">
+  </svg>
+</div>
 
 I’m **Adi Shrivastava**, a data science student at **IIT Madras**.
 
