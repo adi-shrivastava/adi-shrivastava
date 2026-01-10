@@ -1,5 +1,7 @@
-### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
-### Welcome to my Github profile <img src="./party-github.gif" width="22"/>
+<h1>Hey there! I'm Adi :D <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/><br>
+  
+ <h2>Welcome to my Github profile <img src="./party-github.gif" width="22"/> </h2></h1> 
+ 
 <div align="center" style="position: relative; width: 100%;">
 
   <img src="header.png" width="100%" />
