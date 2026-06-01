@@ -16,11 +16,9 @@
 I enjoy understanding how things work and then trying to build them on my own.
 Most of what I learn comes from experimenting, breaking things, and fixing them again.
 
-Right now, I’m mainly learning **React, TypeScript, and Tailwind**, and I usually design using **Figma** and **Canva**.
+Right now, I’m mainly learning **Backend Nodejs Express Redis Caching and much more frameworks to diversify my skillset**.
 
-A lot of my time goes into **web development**, getting comfortable with **Python libraries**, and regular **DSA practice** to keep my problem-solving sharp.
-
-You’ll find a mix of learning projects and experiments on my profile as I continue figuring things out.
+A lot of my time goes into **backend**, getting comfortable with **making scalable projects**
 
 
 ---
