@@ -22,7 +22,6 @@ A lot of my time goes into **backend**, getting comfortable with **making scalab
 
 
 ---
-
 # 💻 Tech Stack
 
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
