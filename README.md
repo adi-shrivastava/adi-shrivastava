@@ -10,7 +10,7 @@
        style="position:absolute; top:0; left:0; width:80%; height:80%;">
   </svg>
 </div>
-### I’m **Adi Shrivastava**, a data science student at **IIT Madras**.
+###I’m **Adi Shrivastava**, a data science student at **IIT Madras**.
 
 I enjoy understanding how things work and then trying to build them on my own.
 Most of what I learn comes from experimenting, breaking things, and fixing them again.
