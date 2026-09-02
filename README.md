@@ -31,28 +31,16 @@ Currently focused on **Node.js, Express, Redis, caching, databases, backend arch
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack
 
 ### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
 
 ### Backend & Databases
-
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,redis)](https://skillicons.dev)
 
 ### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-
+[![My Skills](https://skillicons.dev/icons?i=git,github,vercel,docker)](https://skillicons.dev)
 ---
 
 ## 📊 GitHub Stats
@@ -63,11 +51,17 @@ Currently focused on **Node.js, Express, Redis, caching, databases, backend arch
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/adi-shrivastava-b09713307)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=Instagram\&logoColor=white)](https://instagram.com/a.d.i_xd)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/dizzy_nutxd)
-
----
+<p align="left">
+  <a href="https://linkedin.com/in/adi-shrivastava-b09713307">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+  </a>
+  <a href="https://instagram.com/a.d.i_xd">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
+  </a>
+  <a href="https://discord.gg/dizzy_nutxd">
+    <img src="https://skillicons.dev/icons?i=discord" width="50"/>
+  </a>
+</p>
 
 <p align="center">
   Thanks for visiting my GitHub! 🚀
