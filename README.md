@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <i>Building, experimenting, breaking things, and understanding how they work.</i>
+  <i>Building breaking things, and understanding how they work.</i>
 </p>
 
 ---
