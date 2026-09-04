@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi! I'm Adi 👋
+  Hi! I'm Adi Shrivastava 👋
 </h1>
 
 <h3 align="center">
@@ -9,6 +9,8 @@
 <p align="center">
   <i>Building breaking things, and understanding how they work.</i>
 </p>
+
+<img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/08ff6c46-af5a-4e05-a391-7c39140e38ef" />
 
 ---
 
