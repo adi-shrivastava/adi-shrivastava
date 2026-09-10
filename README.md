@@ -1,4 +1,3 @@
-<!-- ==================== HERO ==================== -->
 
 <h1 align="center">
   Hi! I'm Adi Shrivastava 👋
@@ -9,9 +8,13 @@
 </p>
 
 <p align="center">
+  <div align="center">
+  <h3>
   <i>
     Dual Degree Student • Data Science Mind • Backend Builder
   </i>
+  </h3>
+  </div>
 </p>
 
 <br>
@@ -23,11 +26,13 @@
 
 ## 👨‍💻 About Me
 
-I'm **Adi Shrivastava**, a Data Science student at **IIT Madras** interested in **backend development, software engineering, and scalable systems**.
+## 👨‍💻 About Me
 
-I enjoy learning by building — taking concepts I learn and turning them into working projects.
+I'm **Adi Shrivastava**, a **Dual Degree student** at **IIT Madras & IIST Indore** studying Data Science and gradually finding my way deeper into software engineering and backend development. I enjoy understanding how things work under the hood and, more importantly, building things myself rather than just reading about them.
 
-Currently focused on **Node.js, Express, Redis, caching, databases, backend architecture, and recommendation systems**.
+Most of my learning happens through projects. I'm particularly interested in **backend development, scalable systems, APIs, databases, caching, and recommendation systems**, and I'm currently spending a lot of time with **SQL, AdvancedSQL, Pandas, Numpy, PySpark, Express, Redis, and backend architectures**.
+
+Other than technicals by hobbies I'm a *Designer*🖌️ and *Gamer*🎮. 
 
 ---
 
