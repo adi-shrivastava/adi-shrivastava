@@ -1,14 +1,20 @@
+<!-- ==================== HERO ==================== -->
+
 <h1 align="center">
   Hi! I'm Adi Shrivastava 👋
 </h1>
 
-<h3 align="center">
-  Data Science Student @ IIT Madras • Backend & Software Development
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Data+Science+Student+%40+IIT+Madras;Backend+%26+Software+Developer;Building+Scalable+Systems+%F0%9F%9A%80;Turning+Ideas+Into+Working+Software" />
+</p>
 
 <p align="center">
-  <i>Dual Degree Student, Data science mind, backend builder.</i>
+  <i>
+    Dual Degree Student • Data Science Mind • Backend Builder
+  </i>
 </p>
+
+<br>
 
 <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/ca6285de-9ab0-43a5-b353-b2f656d9e514" />
 
@@ -61,34 +67,41 @@ Currently focused on **Node.js, Express, Redis, caching, databases, backend arch
 
 </div>
 <br><br>    
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://www.readmecodegen.com/api/github-stats/svg?username=adi-shrivastava&showProfilePic=false&showBorder=false" />
-</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/adi-shrivastava-b09713307">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50"/>
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/a.d.i_xd">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="50"/>
-  </a>
-  &nbsp;
-  <a href="https://discord.gg/dizzy_nutxd">
-    <img src="https://skillicons.dev/icons?i=discord&theme=dark" width="50"/>
-  </a>
-  &nbsp;
+<div align="center">
+<a href="https://www.linkedin.com/in/adishrivastava/">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+</a>
+
+<a href="https://www.instagram.com/a.d.i._xd/">
+  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
+</a>
+
+<a href="https://discord.com/channels/@me">
+  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
+</a>
+</div>
+<br><br>  
+
+---
+
+<h3 align="center">📊 GitHub Activity</h3>
+
+<p align="center">
   <a href="https://github.com/adi-shrivastava">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=adi-shrivastava&theme=github-compact&hide_border=true&area=true" width="95%"/>
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/adi-shrivastava">
+    <img src="https://img.shields.io/badge/View%20Full%20GitHub%20Activity-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 <p align="center">
   Thanks for visiting my GitHub! 🚀
