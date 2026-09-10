@@ -10,7 +10,8 @@
   <i>Dual Degree Student, Data science mind, backend builder.</i>
 </p>
 
-<img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/08ff6c46-af5a-4e05-a391-7c39140e38ef" />
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/ca6285de-9ab0-43a5-b353-b2f656d9e514" />
+
 
 ---
 
