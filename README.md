@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Data+Science+Student+%40+IIT+Madras;Backend+%26+Software+Developer;Building+Scalable+Systems+%F0%9F%9A%80;Turning+Ideas+Into+Working+Software" />
 </p>
-
 <p align="center">
   <div align="center">
   <h3>
