@@ -30,7 +30,7 @@ I'm **Adi Shrivastava**, a **Dual Degree student** at **IIT Madras & IIST Indore
 
 Most of my learning happens through projects. I'm particularly interested in **backend development, scalable systems, APIs, databases, caching, and recommendation systems**, and I'm currently spending a lot of time with **SQL, AdvancedSQL, Pandas, Numpy, PySpark, Express, Redis, and backend architectures**.
 
-Other than technicals by hobbies I'm a *Designer*🖌️ and *Gamer*🎮. 
+Other than technicals by hobbies I'm a *Designer Story-Teller* and *A Gamer*🎮. 
 
 ---
 
