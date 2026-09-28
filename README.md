@@ -92,6 +92,7 @@ Other than technicals by hobbies I'm a *Designer Story-Teller* and *A Gamer*🎮
 
 <h3 align="center">📊 GitHub Activity</h3>
 
+
 <p align="center">
   <a href="https://github.com/adi-shrivastava">
     <img src="https://img.shields.io/badge/View%20Full%20GitHub%20Activity-181717?style=for-the-badge&logo=github&logoColor=white"/>
