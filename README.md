@@ -14,7 +14,6 @@
   </h3>
   </div>
 </p>
-
 <br>
 
 <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/ca6285de-9ab0-43a5-b353-b2f656d9e514" />
