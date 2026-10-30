@@ -30,7 +30,6 @@ Most of my learning happens through projects. I'm particularly interested in **b
 
 Other than technicals by hobbies I'm a *Designer Story-Teller* and *A Gamer*🎮. 
 ---
-
 ## 🚀 Projects
 
 | Project | Description | Tech Stack | Status | Links |
